@@ -1,2 +1,3 @@
 customer-1
-product:hardware
+product:laptop
+
