@@ -1,3 +1,4 @@
 customer-1
 product:laptop
+price:10000
 
